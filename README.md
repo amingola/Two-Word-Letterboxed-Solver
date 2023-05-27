@@ -3,6 +3,6 @@ Ever play [Letterboxed](https://www.nytimes.com/puzzles/letter-boxed)? Using the
 
 # Getting Started
 1. Import the project into your favorite IDE
-2. Run the program with 2 arguments: the path to the dictionary file of your choice (such as the included words.txt) and the string represented the puzzle
+2. Run the program with 2 arguments: the path to the dictionary file of your choice (such as the included words.txt) and the string representing the puzzle
 
 Example: "words.txt TAW,DIR,ONS,YLP"
